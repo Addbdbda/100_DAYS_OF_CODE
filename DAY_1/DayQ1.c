@@ -12,6 +12,6 @@ int main(){
     printf("PRODUCT %d \n",a*b);
     printf("QUOTIENT %d \n",a/b);
 
-    return 0;
+    return 0
 
 }
